@@ -79,7 +79,7 @@ graph TB
 ```
 
 ### Core Products:
-- **Authentication**: User management, authentication, and sessions
+- **Authentication**: User management, authentication, and session.
 - **Database**: Postgres relational database
 - **Storage**: S3 compatible file storage
 - **Model Gateway**: OpenAI compatible API across multiple LLM providers
@@ -120,7 +120,7 @@ cp .env.example .env
 docker compose -f docker-compose.prod.yml up
 ```
 
-#### 2. Connect InsForge MCP
+#### 2. Connect InsForge MCP SERVER.
 
 Open [http://localhost:7130](http://localhost:7130)
 
